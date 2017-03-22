@@ -5,3 +5,5 @@ ExpressJS is one of the most popular and widely used web frameworks used with No
 I developed a website using Bootstrap and ExpressJS. Express will work as the web server and routing handler, whereas Bootstrap and basic HTML for the view.
 
 After checking out the project, open a command window then switch to the folder 'node-express-bootstrap'. Run 'npm install', this will install the dependency we require, which is express.
+
+To run the code type 'npm start' in terminal window, visit localhost:3000 and view the website
